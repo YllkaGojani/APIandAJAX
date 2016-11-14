@@ -1,0 +1,19 @@
+h2,p{
+	font-family: verdana;
+	margin-bottom: 5px;
+}
+
+#db{
+	background-color: inherit;
+	border: none;
+	color: #4da6ff;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#ab{
+	background-color: inherit;
+	border: 2px solid #4da6ff;
+	color: #4da6ff;
+	font-weight: bold;	
+}
